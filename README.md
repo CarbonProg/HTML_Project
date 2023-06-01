@@ -41,6 +41,6 @@ Frontend-разработка по-прежнему является важно�
 - <a href="https://bootstrap-4.ru/docs/5.1/components/accordion/">Аккордеоны</a>
 - <a href="https://bootstrap-4.ru/docs/5.1/components/card/">Карточки</a>
 ## Контакты
-- VK : [Максим Назарь](https://vk.com/maveyuma)
-- [Telegram](https://t.me/barulitka)
-- mail : chikernut213@gmai.com
+- VK : [Максим Назарь](https://vk.com/ravecarbon)
+- [Telegram](https://t.me/Carbon228)
+- mail : steam.max2016@mail.ru
