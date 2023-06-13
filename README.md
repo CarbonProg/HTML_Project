@@ -1,5 +1,5 @@
 # Обучение FrontEnd разработке. Создание сайта.
-## Фреймворки
+## Среда разработки
 - **Visual Studio Code**
 ![image](https://github.com/CarbonProg/testPage/assets/133951431/406e029f-e409-4e27-b06c-204525221d57)
 ## Актуальность
